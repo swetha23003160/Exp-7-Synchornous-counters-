@@ -95,11 +95,4 @@ by thids way we have verified the truth table of 4 bit up counter using verilog
 
 
 
-### TRUTH TABLE 
 
-
-
-
-
-
-### RESULTS 
